@@ -14,7 +14,8 @@ Her proje, belirli bir konuyu (görüntü işleme, GUI geliştirme, haberleşme)
   - Video üzerinden **çizgi (line) algılama**  
   - **Canny Edge Detection** ve **Hough Transform** kullanımı  
   - ROI (Region of Interest) bölgesinde yol merkezini bulma ve sapma hesaplama  
-- 💡 **Gerçek kullanım alanı:** Otonom araçların şerit takip sistemlerine temel oluşturur.  
+- 💡 **Gerçek kullanım alanı:** Otonom araçların şerit takip sistemlerine temel oluşturur.
+- **Detaylı Bilgi:** [Lane Detection and Tracking/README.md](Lane%20Detection%20and%20Tracking/README.md) 📖
 
 ---
 
@@ -26,7 +27,8 @@ Her proje, belirli bir konuyu (görüntü işleme, GUI geliştirme, haberleşme)
   - Video oynatma desteği (örnek: `Line.mp4`)  
   - Görev başlatma/durdurma butonları  
   - **Araç verilerinin (basınç, sıcaklık, süre) rastgele simülasyonu**  
-- 💡 **Gerçek kullanım alanı:** Basit bir **araç kontrol arayüzü prototipi**.  
+- 💡 **Gerçek kullanım alanı:** Basit bir **araç kontrol arayüzü prototipi**.
+- **Detaylı Bilgi:** [PyQt5 Vehicle Control GUI/README.md](PyQt5%20Vehicle%20Control%20GUI/README.md) 📖
 
 ---
 
@@ -37,7 +39,8 @@ Her proje, belirli bir konuyu (görüntü işleme, GUI geliştirme, haberleşme)
   - TCP üzerinden **client-server bağlantısı**  
   - JSON dosyasındaki cevaplarla basit chatbot  
   - `exit` komutuyla istemciden çıkış yapma  
-- 💡 **Gerçek kullanım alanı:** Ağ programlama temellerini öğrenme, çoklu istemciye uyarlanabilir.  
+- 💡 **Gerçek kullanım alanı:** Ağ programlama temellerini öğrenme, çoklu istemciye uyarlanabilir.
+- **Detaylı Bilgi:** [Python Chatbot with Socket Programming/README.md](Python%20Chatbot%20with%20Socket%20Programming/README.md) 📖
 
 ---
 
