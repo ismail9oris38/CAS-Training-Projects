@@ -15,7 +15,7 @@ Her proje, belirli bir konuyu (görüntü işleme, GUI geliştirme, haberleşme)
   - **Canny Edge Detection** ve **Hough Transform** kullanımı  
   - ROI (Region of Interest) bölgesinde yol merkezini bulma ve sapma hesaplama  
 - 💡 **Gerçek kullanım alanı:** Otonom araçların şerit takip sistemlerine temel oluşturur.
-- **Detaylı Bilgi:** [Lane Detection and Tracking/README.md](Lane%20Detection%20and%20Tracking/README.md) 📖
+- **Detaylı Bilgi:** [Lane Detection and Tracking/README.md]( Lane%20Detection%20and%20Tracking/README.md) 📖
 
 ---
 
